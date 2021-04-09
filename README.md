@@ -5,4 +5,5 @@ List Of Projects: -
     2. Word Jump Game  
     3. Snake Game  
     4. Random Password Generator  
-    5.
+    5. Fruit Ninja Game  
+    6. 
