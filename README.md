@@ -6,4 +6,5 @@ List Of Projects: -
     3. Snake Game  
     4. Random Password Generator  
     5. Fruit Ninja Game  
-    6. 
+    6. Speed Typing Game  
+    7.
